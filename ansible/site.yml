@@ -1,0 +1,8 @@
+---
+- hosts: localhost
+  tasks:
+    - name: install autoruns
+      become: true
+      become_user: root
+      action: >
+       {{ ansible_pkg_mgr }} name=htop,transmission state=present update_cache=yes
