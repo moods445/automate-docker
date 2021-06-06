@@ -34,7 +34,7 @@ if len(lines) == 0:
     exit()
 for p in lines:
     dir = p.strip("\n").strip("\r")
-    print("handle ", dir)
+    logging.info("handle ", dir)
     st = run("git status", dir)
     # logging.info("work tree: %d",st.stdout.decode("GBK").index("working tree clea"))
     if "working tree clean" not in st.stdout.decode(encoding):
