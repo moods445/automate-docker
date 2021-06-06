@@ -7,6 +7,8 @@ logging.basicConfig(format='%(asctime)s - %(pathname)s[line:%(lineno)d] - %(leve
                     level=logging.DEBUG)
 
 #  获取配置文件
+
+
 def config():
     configfile = ".gitautomate"
     if "Windows" == platform.system():
@@ -42,5 +44,6 @@ for p in lines:
     if "nothing to commit" not in st.stdout.decode(encoding):
         run("git commit -m \"add automate\"", dir)
     run("git push", dir)
+    subprocess.run("git status",  cwd=dir)
 
 logging.info("push all")
