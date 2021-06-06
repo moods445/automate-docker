@@ -1,0 +1,16 @@
+choco: 
+    jdk8: jdk8
+    chrome: googlechrome
+    TrafficMonitor: TrafficMonitor
+
+winget:
+    windows-terminal: Microsoft.WindowsTerminal
+    idea : JetBrains.IntelliJIDEA.Community
+    source-tree:  Atlassian.Sourcetree   
+    vscode:  Microsoft.VisualStudioCode
+    git : Git.Git
+    vagrant: Hashicorp.Vagrant
+    virtualbox: Oracle.VirtualBox
+    keepass: DominikReichl.KeePass
+    # todo: microsoft.todo # 
+    # iflyrec :  # 讯飞

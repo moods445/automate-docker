@@ -1,0 +1,144 @@
+无法从任何源获得已安装的程序包: 写作助手 1.0.28
+无法从任何源获得已安装的程序包: ZooKeeperCX 0.2.1
+无法从任何源获得已安装的程序包: OnePomodoro
+无法从任何源获得已安装的程序包: 专注清单: 番茄工作法 & 任务清单 & 番茄钟(原小番茄)「管理工作日程和学习计划,培养专注习惯」
+无法从任何源获得已安装的程序包: 番茄钟 10
+无法从任何源获得已安装的程序包: Newsflow
+无法从任何源获得已安装的程序包: 7-Zip 19.00 (x64)
+无法从任何源获得已安装的程序包: LinkedIn
+无法从任何源获得已安装的程序包: Kafka Tool 2 2.0.8
+无法从任何源获得已安装的程序包: 小米感应钥匙
+无法从任何源获得已安装的程序包: Gisto 1.13.4
+无法从任何源获得已安装的程序包: HP Smart
+无法从任何源获得已安装的程序包: 智能互联
+无法从任何源获得已安装的程序包: Intel® Graphics Control Panel
+无法从任何源获得已安装的程序包: Ubuntu 20.04 LTS
+无法从任何源获得已安装的程序包: FeedLab
+无法从任何源获得已安装的程序包: Dolby Audio Premium
+无法从任何源获得已安装的程序包: Everything 1.4.1.969 (x64)
+无法从任何源获得已安装的程序包: 飞书
+无法从任何源获得已安装的程序包: FileZilla Server
+无法从任何源获得已安装的程序包: Geekbench 5
+无法从任何源获得已安装的程序包: GlassWire 2.2 (remove only)
+无法从任何源获得已安装的程序包: HWiNFO64 Version 7.02
+无法从任何源获得已安装的程序包: Microsoft Office 家庭和学生版 2016 - zh-cn
+无法从任何源获得已安装的程序包: KDiff3 (remove only)
+无法从任何源获得已安装的程序包: KeePass Password Safe 2.48.1
+无法从任何源获得已安装的程序包: 微软必应词典 (Win10)
+无法从任何源获得已安装的程序包: 小米画报
+无法从任何源获得已安装的程序包: MiService
+无法从任何源获得已安装的程序包: Microsoft Edge Update
+无法从任何源获得已安装的程序包: MSN 天气
+无法从任何源获得已安装的程序包: App Installer
+无法从任何源获得已安装的程序包: 获取帮助
+无法从任何源获得已安装的程序包: Microsoft 使用技巧
+无法从任何源获得已安装的程序包: HEIF 图像扩展
+无法从任何源获得已安装的程序包: 来自设备制造商的 HEVC 视频扩展
+无法从任何源获得已安装的程序包: 中文(简体)本地体验包
+无法从任何源获得已安装的程序包: MPEG-2 视频扩展
+无法从任何源获得已安装的程序包: 画图 3D
+无法从任何源获得已安装的程序包: 3D 查看器
+无法从任何源获得已安装的程序包: Microsoft Edge
+无法从任何源获得已安装的程序包: Office
+无法从任何源获得已安装的程序包: Microsoft Solitaire Collection
+无法从任何源获得已安装的程序包: Microsoft 便笺
+无法从任何源获得已安装的程序包: 混合现实门户
+无法从任何源获得已安装的程序包: OneNote for Windows 10
+无法从任何源获得已安装的程序包: Microsoft 人脉
+无法从任何源获得已安装的程序包: Print 3D
+无法从任何源获得已安装的程序包: 截图和草图
+无法从任何源获得已安装的程序包: Microsoft Store 体验主机
+无法从任何源获得已安装的程序包: Microsoft To Do
+无法从任何源获得已安装的程序包: VP9 Video Extensions
+无法从任何源获得已安装的程序包: Microsoft Pay
+无法从任何源获得已安装的程序包: Web 媒体扩展
+无法从任何源获得已安装的程序包: Webp 图像扩展
+无法从任何源获得已安装的程序包: Microsoft 照片
+无法从任何源获得已安装的程序包: Windows 闹钟和时钟
+无法从任何源获得已安装的程序包: Windows 计算器
+无法从任何源获得已安装的程序包: Windows 相机
+无法从任何源获得已安装的程序包: 反馈中心
+无法从任何源获得已安装的程序包: Windows 地图
+无法从任何源获得已安装的程序包: Windows 录音机
+无法从任何源获得已安装的程序包: Microsoft Store
+无法从任何源获得已安装的程序包: WinGet Source
+无法从任何源获得已安装的程序包: Xbox TCUI
+无法从任何源获得已安装的程序包: Xbox 主机小帮手
+无法从任何源获得已安装的程序包: Xbox Game Bar Plugin
+无法从任何源获得已安装的程序包: Xbox Game Bar
+无法从任何源获得已安装的程序包: Xbox Identity Provider
+无法从任何源获得已安装的程序包: Xbox Game Speech Window
+无法从任何源获得已安装的程序包: 你的手机
+无法从任何源获得已安装的程序包: Groove 音乐
+无法从任何源获得已安装的程序包: 电影和电视
+无法从任何源获得已安装的程序包: NVIDIA Control Panel
+无法从任何源获得已安装的程序包: 有道词典
+无法从任何源获得已安装的程序包: Tomato Timer - Effective Time Management
+无法从任何源获得已安装的程序包: Npcap
+无法从任何源获得已安装的程序包: On Screen Display Utility
+无法从任何源获得已安装的程序包: 软媒魔方
+无法从任何源获得已安装的程序包: 手心输入法
+无法从任何源获得已安装的程序包: Postman-win64-8.5.0
+无法从任何源获得已安装的程序包: QEMU
+无法从任何源获得已安装的程序包: Tencent QQMail Plugin
+无法从任何源获得已安装的程序包: QQ音乐
+无法从任何源获得已安装的程序包: Realtek Audio Control
+无法从任何源获得已安装的程序包: Ruby 3.0.1-1-x64 with MSYS2
+无法从任何源获得已安装的程序包: 服务中心
+无法从任何源获得已安装的程序包: Tesseract-OCR - open source OCR engine
+无法从任何源获得已安装的程序包: Debian
+无法从任何源获得已安装的程序包: JetBrains Toolbox
+无法从任何源获得已安装的程序包: 微信
+无法从任何源获得已安装的程序包: Wireshark 3.4.3 64-bit
+无法从任何源获得已安装的程序包: ZeroTier One
+无法从任何源获得已安装的程序包: 小米云服务
+无法从任何源获得已安装的程序包: iStylePDF 3.0.6.2155
+无法从任何源获得已安装的程序包: 邮件和日历
+无法从任何源获得已安装的程序包: 万彩办公大师OfficeBox 3.0.7
+无法从任何源获得已安装的程序包: EdrawMax(Build 10.0.4.776)
+无法从任何源获得已安装的程序包: 腾讯QQ
+无法从任何源获得已安装的程序包: Windows Software Development Kit - Windows 10.0.18362.1
+无法从任何源获得已安装的程序包: VMware Player
+无法从任何源获得已安装的程序包: Microsoft .NET SDK 5.0.100 (x64) from Visual Studio
+无法从任何源获得已安装的程序包: Windows Subsystem for Linux Update
+无法从任何源获得已安装的程序包: Intel(R) Management Engine Components
+无法从任何源获得已安装的程序包: Java 8 Update 221 (64-bit)
+无法从任何源获得已安装的程序包: Meld
+无法从任何源获得已安装的程序包: Typora version 0.9.89
+无法从任何源获得已安装的程序包: Zeal 0.6.1
+无法从任何源获得已安装的程序包: Vagrant VMware Utility
+无法从任何源获得已安装的程序包: 英特尔® 芯片组设备软件
+无法从任何源获得已安装的程序包: Realtek Card Reader
+无法从任何源获得已安装的程序包: Java SE Development Kit 8 Update 221 (64-bit)
+无法从任何源获得已安装的程序包: Microsoft Visual Studio Installer
+无法从任何源获得已安装的程序包: VirtViewer 10.0-256 (64-bit)
+无法从任何源获得已安装的程序包: Microsoft Filter Pack 2.0
+无法从任何源获得已安装的程序包: 讯飞听见 版本 2.0.0139
+无法从任何源获得已安装的程序包: Intel(R) Serial IO
+无法从任何源获得已安装的程序包: Microsoft Update Health Tools
+无法从任何源获得已安装的程序包: AnyTXT Searcher 1.2
+无法从任何源获得已安装的程序包: Intel® Power Gadget 3.5
+无法从任何源获得已安装的程序包: NVIDIA 图形驱动程序 451.67
+无法从任何源获得已安装的程序包: NVIDIA PhysX 系统软件 9.19.0218
+无法从任何源获得已安装的程序包: Microsoft System CLR Types for SQL Server 2019 CTP2.2
+无法从任何源获得已安装的程序包: Microsoft System CLR Types for SQL Server 2019 CTP2.2
+无法从任何源获得已安装的程序包: Update for  (KB2504637)
+无法从任何源获得已安装的程序包: Best Trace 版本 3.8.0
+无法从任何源获得已安装的程序包: Java(TM) SE Development Kit 15.0.1 (64-bit)
+无法从任何源获得已安装的程序包: Windows SDK AddOn
+无法从任何源获得已安装的程序包: Intel(R) Processor Graphics
+无法从任何源获得已安装的程序包: Realtek High Definition Audio Driver
+无法从任何源获得已安装的程序包: MySQL Workbench 8.0 CE
+无法从任何源获得已安装的程序包: 坚果云
+无法从任何源获得已安装的程序包: Python Launcher
+无法从任何源获得已安装的程序包: Another Redis Desktop Manager 1.4.2
+无法从任何源获得已安装的程序包: Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29334
+无法从任何源获得已安装的程序包: Python 3.9.1 (64-bit)
+无法从任何源获得已安装的程序包: Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29334
+无法从任何源获得已安装的程序包: XMind 10.1.3
+无法从任何源获得已安装的程序包: 企业微信
+无法从任何源获得已安装的程序包: 宝塔面板
+无法从任何源获得已安装的程序包: 百度网盘
+无法从任何源获得已安装的程序包: 网易云音乐
+无法从任何源获得已安装的程序包: 网易有道词典
+无法从任何源获得已安装的程序包: 钉钉

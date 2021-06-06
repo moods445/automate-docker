@@ -1,9 +1,13 @@
 ---
 - hosts: localhost
+  remote_user: root
+  vars:
+    softs: 
+      include: soft.yml
   tasks:
-    - name: install autoruns
-      become: true
-      become_user: root
-      action: >
-       {{ ansible_pkg_mgr }} name=htop,transmission 
-       state=present update_cache=yes
+    - name: install basic packages
+      apt:
+        name:
+          "{{ softs }}"
+        state: present
+        autoclean: yes
